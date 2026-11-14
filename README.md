@@ -11,9 +11,13 @@ Two target architectures are supported from a single source tree:
 
 ## Screenshots
 
-| <img src="images/rg28xx-20261114-032809.png" width="49%" alt="RG 28XX"> | <img src="images/Screenshot_2026-11-14_05-35-53.png" width="49%" alt="Desktop"> |
-|:---:|:---:|
-| *Running on RG 28XX (Mali-G31 / Panfrost) with ROCKNIX* | *Running on GNU/Linux x86_64 (AMD Radeon, Mesa)* |
+<img src="images/rg28xx-20261114-032809.png" width="70%" alt="RG 28XX">
+
+*Running on RG 28XX (Mali-G31 / Panfrost) with ROCKNIX*
+
+<img src="images/Screenshot_2026-11-14_05-35-53.png" width="70%" alt="Desktop">
+
+*Running on GNU/Linux x86_64 (AMD Radeon, Mesa)*
 
 ## Requirements
 
